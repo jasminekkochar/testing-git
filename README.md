@@ -6,5 +6,11 @@ This is a paragraph
 
 -This
 -Is
+-Not
 -A
 -List
+
+- This
+- Is
+- A
+- List
